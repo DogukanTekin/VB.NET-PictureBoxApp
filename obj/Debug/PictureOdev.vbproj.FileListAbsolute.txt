@@ -1,0 +1,13 @@
+E:\VB Visual Studio\PictureOdev\bin\Debug\PictureOdev.exe.config
+E:\VB Visual Studio\PictureOdev\bin\Debug\PictureOdev.exe
+E:\VB Visual Studio\PictureOdev\bin\Debug\PictureOdev.pdb
+E:\VB Visual Studio\PictureOdev\bin\Debug\PictureOdev.xml
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.vbproj.AssemblyReference.cache
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.vbproj.SuggestedBindingRedirects.cache
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.Form1.resources
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.Resources.resources
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.vbproj.GenerateResource.cache
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.vbproj.CoreCompileInputs.cache
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.exe
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.xml
+E:\VB Visual Studio\PictureOdev\obj\Debug\PictureOdev.pdb
